@@ -6,9 +6,7 @@ using System.IO;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
-
 //New Branch code 01
-//new code
 namespace TestProject
 {
     internal class bff
@@ -18,6 +16,11 @@ namespace TestProject
 
         }
         public void naujasMetodasNewBranch2()
+        {
+
+        }
+
+        public void naujasMetodasMaster()
         {
 
         }
