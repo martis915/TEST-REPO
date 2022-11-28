@@ -17,6 +17,10 @@ namespace TestProject
         {
 
         }
+        public void naujasMetodasNewBranch2()
+        {
+
+        }
 
         IWebDriver driver;
         public bff(IWebDriver driver)
