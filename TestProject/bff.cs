@@ -13,13 +13,16 @@ namespace TestProject
 {
     internal class bff
     {
+        public void naujasMetodasNewBranch()
+        {
+
+        }
+
         IWebDriver driver;
         public bff(IWebDriver driver)
         {
             this.driver = driver;
         }
-
-
 
         public void inputText1(string inputText)
         {
