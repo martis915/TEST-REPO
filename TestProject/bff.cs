@@ -12,6 +12,10 @@ namespace TestProject
 {
     internal class bff
     {
+        public void naujasMetodasMaster()
+        {
+
+        }
         IWebDriver driver;
         public bff(IWebDriver driver)
         {
